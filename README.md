@@ -1,3 +1,4 @@
+![img](/img/switches.jpg)
 # Trabajo-hardware-sobre-switches
 ## Indice
 1. [¿Que son los switches?](/Documentos/introduccion.md)
