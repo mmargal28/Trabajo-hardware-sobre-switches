@@ -19,4 +19,4 @@
 
 Y bueno esto son varios ejemplos de ususo que prodria llegar a tener un switch.
 
-![img1](img/2.1.4.jpeg)
+![img1](../img/2.1.4.jpeg)
