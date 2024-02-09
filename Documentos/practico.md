@@ -17,4 +17,4 @@
 
       Escenario: En sistemas de videovigilancia, se tienen múltiples cámaras distribuidas en un área para monitorear la seguridad.
 
-  
+Y bueno esto son varios ejemplos de ususo que prodria llegar a tener un switch.
