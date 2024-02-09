@@ -2,7 +2,7 @@
 # Trabajo-hardware-sobre-switches
 ## Indice
 1. [¿Que son los switches?](/Documentos/introduccion.md)
-2. [Marcas de switches](/Documentos/distribucion.md)
+2. [Marcas de switches](/Documentos/marcas.md)
 3. [Tipos y caracteristicas](/Documentos/repositorios.md)
 4. [Caso práctico](/Documentos/practica.md)
 5. [Webgrafía](/Documentos/web.md)
