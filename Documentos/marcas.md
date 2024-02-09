@@ -8,4 +8,4 @@ Generalmente los switches son muy variados, con distintas funciones y cada uno c
 
 Adjuntamos una grafica la cual interpretaremos abajo:
 ![img](/img/grafica.png)
-En la siguiente grafica vemos que las distintas marcas están divididas entorno a la distribucion de ventas de los fabricantes de estos dispositivos, en la grafica, la parte de abajo representa las fechas, en el que el periodo de estudio es de T1 de 2016 al T4 de 2019, y por la parte de la grafica es el porcentaje de venta de las marcas en concreto.
+En la siguiente grafica vemos que las distintas marcas están divididas entorno a la distribucion de ventas de los fabricantes de estos dispositivos, en la grafica, la parte de abajo representa las fechas, en el que el periodo de estudio es de T1 de 2016 al T4 de 2019, y por la parte de la grafica es el porcentaje de venta de las marcas en concreto en ese año.
