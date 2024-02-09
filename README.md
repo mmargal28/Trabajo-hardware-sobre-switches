@@ -6,19 +6,19 @@
 
 1.- Introducción.
 
-   - [¿Que son los switches?](/Documentos/introduccion.md)
+   - [¿Que son los switches?](/Documentos/introducion.md)
 
 2.- Marcas y modelos
 
-  - [Marcas de switches](/Documentos/distribucion.md)
+  - [Marcas de switches](/Documentos/marcas.md)
 
 3.- Tipos
 
-   - [Tipos y caracteristicas](/Documentos/repositorios.md)
+   - [Tipos y caracteristicas](/Documentos/caracteristicas.md)
 
 4.- Caso práctico
 
-   - [Caso práctico](/Documentos/practica.md)
+   - [Caso práctico](/Documentos/practico.md)
 
 ## Referencia
 
