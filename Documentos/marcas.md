@@ -11,4 +11,4 @@ Adjuntamos una grafica la cual interpretaremos abajo:
 En la siguiente grafica vemos que las distintas marcas están divididas entorno a la distribucion de ventas de los fabricantes de estos dispositivos, en la grafica, la parte de abajo representa las fechas, en el que el periodo de estudio es de T1 de 2016 al T4 de 2019, y por la parte de la grafica es el porcentaje de venta de las marcas en concreto en ese año.
 
 Independientemente de esto, hay marcas mas asequibles para los usuarios, un ejemplo de ellos es la marca TP-Link con precios destacablemente mas baratos que los de cisco.
-![img](/switchestplink.png) ![img](switchescisco.png)
+![img](/img/switchestplink.png) ![img](/img/switchescisco.png)
