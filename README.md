@@ -1,6 +1,8 @@
+
 # Trabajo hardware sobre switches
 
 ![img1](img/img1.png)
+
 
 ## Indice
 
