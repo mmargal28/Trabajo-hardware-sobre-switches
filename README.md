@@ -28,8 +28,8 @@
 ## Autores
 
 - `Andrés Del Pino Muñoz` (https://github.com/0Vinylo0)
-- `Manuel Martín Galve` (https://github.com/0Vinylo0)
-- `Deneb Donoso Duran` (https://github.com/0Vinylo0)
+- `Manuel Martín Galve` (https://github.com/mmargal28)
+- `Deneb Donoso Duran` (https://github.com/Xicobot)
 
 ## Licencia
 
