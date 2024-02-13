@@ -1,7 +1,11 @@
 # Trabajo hardware sobre switches
 
 ![img1](img/img1.png)
+## Autores
 
+- `Andrés Del Pino Muñoz` (https://github.com/0Vinylo0)
+- `Manuel Martín Galve` (https://github.com/mmargal28)
+- `Deneb Donoso Duran` (https://github.com/Xicobot)
 
 ## Indice
 
@@ -27,11 +31,7 @@
 - Con ayuda de: `ChatGPT` 
 - Gracias a [`Statista`](https://es.statista.com/)
 
-## Autores
 
-- `Andrés Del Pino Muñoz` (https://github.com/0Vinylo0)
-- `Manuel Martín Galve` (https://github.com/mmargal28)
-- `Deneb Donoso Duran` (https://github.com/Xicobot)
 
 ## Licencia
 
