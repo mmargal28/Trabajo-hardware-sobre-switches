@@ -1,6 +1,6 @@
 # Trabajo hardware sobre switches
 
-![img1](img/img1.png)
+![img1](img/img1.webp)
 ## Autores
 
 - `Andrés Del Pino Muñoz` (https://github.com/0Vinylo0)
