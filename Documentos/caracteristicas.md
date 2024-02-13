@@ -37,5 +37,7 @@ Un switch doméstico es un dispositivo de red diseñado para su uso en entornos 
    - Conectar dispositivos como computadoras, impresoras y consolas de juegos.
 6. **Energía eficiente:**
    - Diseñados para un uso eficiente de la energía.
-<br>
+
+
+
 ![switch](../img/1.webp)
