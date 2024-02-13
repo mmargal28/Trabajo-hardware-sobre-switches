@@ -24,7 +24,7 @@
 5.- [Conclusion](/Documentos/conclusion.md) 
 ## Referencia
 
-- Con ayuda de: `` 
+- Con ayuda de: `ChatGPT` 
 - Gracias a [``]()
 
 ## Autores
