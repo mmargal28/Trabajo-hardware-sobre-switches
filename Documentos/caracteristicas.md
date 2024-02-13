@@ -1,6 +1,7 @@
 # Tipos y Características de Switches
 
 # Switches Empresariales
+Es un dispositivo de red diseñado para su uso en entornos empresariales y corporativos.
 
 ## Características comunes:
 1. **Gestión avanzada:**
@@ -19,6 +20,7 @@
    - Permite la segmentación de la red.
 
 # Switches Domésticos
+Un switch doméstico es un dispositivo de red diseñado para su uso en entornos residenciales o pequeñas oficinas.
 
 ## Características comunes:
 1. **Plug-and-Play:**
