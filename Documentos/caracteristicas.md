@@ -3,6 +3,7 @@
 # Switches Empresariales
 Es un dispositivo de red diseñado para su uso en entornos empresariales y corporativos.
 
+
 ## Características comunes:
 1. **Gestión avanzada:**
    - Permite configuración avanzada y opciones de monitoreo.
@@ -18,6 +19,7 @@ Es un dispositivo de red diseñado para su uso en entornos empresariales y corpo
    - Capacidad para alimentar dispositivos a través del cable Ethernet.
 7. **Gestión de VLAN:**
    - Permite la segmentación de la red.
+![switch](../img/2.webp)
 
 # Switches Domésticos
 Un switch doméstico es un dispositivo de red diseñado para su uso en entornos residenciales o pequeñas oficinas.
@@ -35,3 +37,4 @@ Un switch doméstico es un dispositivo de red diseñado para su uso en entornos 
    - Conectar dispositivos como computadoras, impresoras y consolas de juegos.
 6. **Energía eficiente:**
    - Diseñados para un uso eficiente de la energía.
+![switch](../img/1.webp)
